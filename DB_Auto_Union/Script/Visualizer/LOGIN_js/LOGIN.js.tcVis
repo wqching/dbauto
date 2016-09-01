@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{63ACAB99-28DE-4343-82B5-98F90EBBA990}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="350" kind="0" dateTime="42612.3048726852" objectName="Aliases.DreamBookAuthor.LoginDlg.frame.idLineEdit" objectLeft="97" objectTop="142" objectRight="257" objectBottom="162" clickPointX="155" clickPointY="153" imageFileName="tcvi21545734100480.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="352" kind="0" dateTime="42612.3049074074" objectName="Aliases.DreamBookAuthor.LoginDlg.frame.idLineEdit" objectLeft="97" objectTop="142" objectRight="257" objectBottom="162" clickPointX="-487" clickPointY="-307" imageFileName="tcvi21548343100484.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="355" kind="0" dateTime="42612.3049421296" objectName="Aliases.DreamBookAuthor.LoginDlg.frame.pwLineEdit" objectLeft="269" objectTop="142" objectRight="429" objectBottom="162" clickPointX="390" clickPointY="154" imageFileName="tcvi215514061004811.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="358" kind="0" dateTime="42612.3049537037" objectName="Aliases.DreamBookAuthor.LoginDlg.frame.pwLineEdit" objectLeft="269" objectTop="142" objectRight="429" objectBottom="162" clickPointX="-487" clickPointY="-307" imageFileName="tcvi215521561004812.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="359" kind="0" dateTime="42612.3050694444" objectName="Aliases.DreamBookAuthor.msgBoxDlg.frame.labelMsg.qt_scrollarea_viewport" objectLeft="86" objectTop="46" objectRight="471" objectBottom="142" clickPointX="113" clickPointY="88" imageFileName="tcvi215622181004816.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

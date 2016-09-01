@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="logs">
+				<Prp name="key" type="S" value="{0BA5A290-A397-420F-9FDB-68159EE63FDD}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables">
+				<Node name="datav3">
+					<Node name="var0">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7B76555F305244007200650061006D00200042006F006F006B00"/>
+						</Node>
+						<Prp name="name" type="S" value="db_label_2"/>
+					</Node>
+					<Node name="var1">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="D653886D"/>
+						</Node>
+						<Prp name="name" type="S" value="db_cancelButton"/>
+					</Node>
+					<Node name="var2">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7B76555F"/>
+						</Node>
+						<Prp name="name" type="S" value="db_loginButton"/>
+					</Node>
+					<Node name="var3">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="B08B4F4FC65B0178"/>
+						</Node>
+						<Prp name="name" type="S" value="db_rememberPWCheckBox"/>
+					</Node>
+					<Node name="var4">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="B08B4F4F268D37629C00"/>
+						</Node>
+						<Prp name="name" type="S" value="db_rememberIDCheckBox"/>
+					</Node>
+					<Node name="var5">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="C65B0178"/>
+						</Node>
+						<Prp name="name" type="S" value="db_pwLabel"/>
+					</Node>
+					<Node name="var6">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="268D3762"/>
+						</Node>
+						<Prp name="name" type="S" value="db_idLabel"/>
+					</Node>
+					<Node name="var7">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="F78B28570B4E6297938F6551604F8476268D37628C54C65B01780230"/>
+						</Node>
+						<Prp name="name" type="S" value="db_labelTip"/>
+					</Node>
+					<Node name="var8">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="44007200650061006D00200042006F006F006B00200041007500740068006F0072007B76555F"/>
+						</Node>
+						<Prp name="name" type="S" value="db_labelTitle"/>
+					</Node>
+					<Node name="var9">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4D006900630072006F0073006F0066007400200059006100480065006900"/>
+						</Node>
+						<Prp name="name" type="S" value="db_login_font_type"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="3"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+	</Node>
+</Nodes>

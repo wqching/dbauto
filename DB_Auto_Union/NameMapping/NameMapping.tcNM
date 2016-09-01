@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="5">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{234F032F-FD8E-4167-8F44-E4B0BB72C45A}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="DreamBookAuthor" Key="{C104F1AA-A400-4EB1-95E3-DAC4B5AE0912}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="DreamBookAuthor" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="LoginDlg" Key="{4D92956D-23A9-4750-B1C1-1564AFB99DC4}" ParallelWalk="True">
+								<Properties>
+									<Property Name="objectName">
+										<Value PropertyType="0" Value="LoginDlg" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="frame" Key="{6E13D93E-062B-4D54-90D7-1BD526F967FB}" ParallelWalk="True">
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="frame" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="idLineEdit" Key="{02124FAB-F203-42FB-AA30-591FEEADDAF0}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="idLineEdit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="pwLineEdit" Key="{B36E965B-CFDC-40D5-AFD2-374A2E26A174}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="pwLineEdit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="rememberIDCheckBox" Key="{FA9E9C17-AD6C-43AA-88C1-837259202FFB}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="rememberIDCheckBox" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="labelTip" Key="{D65DA90B-581C-4C5A-BF67-B184E50E15FB}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="labelTip" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="rememberPWCheckBox" Key="{70382153-A41F-442D-8067-CD3BD50714EB}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="rememberPWCheckBox" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="loginButton" Key="{4621EEF0-BC8B-4EB2-B342-E3A113F5E265}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="loginButton" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="cancelButton" Key="{E77CFA3A-A4FD-4183-B991-919CB19A6AE0}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="cancelButton" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="closeButton" Key="{5B9CD616-AC6D-40E4-855B-D00E19765DDB}" ParallelWalk="True">
+										<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="closeButton" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="MainWindowClass" Key="{A821B3E9-AE56-4DC4-9B35-7C49183A8412}" ParallelWalk="True">
+								<Properties>
+									<Property Name="objectName">
+										<Value PropertyType="0" Value="MainWindowClass" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="toolBarHorizentalTop" Key="{0EC1C820-5703-4349-8E77-5C0508041A55}" ParallelWalk="True">
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="toolBarHorizentalTop" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolButtonUser" Key="{6CFA2B8A-7A84-4CCD-8BBB-EBCEFD9D9672}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="toolButtonUser" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="centralwidget" Key="{25BDA75C-FC7C-4E52-A459-4BBA2A143FAD}" ParallelWalk="True">
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="centralwidget" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="mdiArea" Key="{B19C565D-D5FB-43E5-BD3F-92A1177000C2}" ParallelWalk="True">
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="mdiArea" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Widget" Key="{546AD9E3-A904-4233-8F1D-582DC67FD141}" ParallelWalk="True">
+														<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QWidget" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="3" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="msgBoxDlg" Key="{5EF05733-F3D3-4C0B-B30E-A51324E232A1}" ParallelWalk="True">
+								<Properties>
+									<Property Name="objectName">
+										<Value PropertyType="0" Value="msgBoxDlg" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="frame" Key="{F699C12A-4DBD-4717-BA02-3775CFA7C34E}" ParallelWalk="True">
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="frame" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="okButton" Key="{11B6218F-7E19-4C89-8747-6094C4EE99B5}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="okButton" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="labelMsg" Key="{8D286655-7209-47BD-9A47-C76E97C7AC06}" ParallelWalk="True">
+												<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="labelMsg" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="qt_scrollarea_viewport" Key="{4B9D7944-A1CA-40DF-8232-FBBD496B1C76}" ParallelWalk="True">
+														<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+														<Properties>
+															<Property Name="objectName">
+																<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="closeButton" Key="{EA18DE9C-07D2-457B-BE67-3B734751482E}" ParallelWalk="True">
+										<TypeInfo Item0="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="closeButton" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="DreamBookAuthor" Owner="{C104F1AA-A400-4EB1-95E3-DAC4B5AE0912}">
+			<Child Name="LoginDlg" Owner="{4D92956D-23A9-4750-B1C1-1564AFB99DC4}">
+				<Child Name="frame" Owner="{6E13D93E-062B-4D54-90D7-1BD526F967FB}">
+					<Child Name="idLineEdit" Owner="{02124FAB-F203-42FB-AA30-591FEEADDAF0}" />
+					<Child Name="pwLineEdit" Owner="{B36E965B-CFDC-40D5-AFD2-374A2E26A174}" />
+					<Child Name="rememberIDCheckBox" Owner="{FA9E9C17-AD6C-43AA-88C1-837259202FFB}" />
+					<Child Name="labelTip" Owner="{D65DA90B-581C-4C5A-BF67-B184E50E15FB}" />
+					<Child Name="rememberPWCheckBox" Owner="{70382153-A41F-442D-8067-CD3BD50714EB}" />
+					<Child Name="loginButton" Owner="{4621EEF0-BC8B-4EB2-B342-E3A113F5E265}" />
+					<Child Name="cancelButton" Owner="{E77CFA3A-A4FD-4183-B991-919CB19A6AE0}" />
+				</Child>
+				<Child Name="closeButton" Owner="{5B9CD616-AC6D-40E4-855B-D00E19765DDB}" />
+			</Child>
+			<Child Name="MainWindowClass" Owner="{A821B3E9-AE56-4DC4-9B35-7C49183A8412}">
+				<Child Name="toolBarHorizentalTop" Owner="{0EC1C820-5703-4349-8E77-5C0508041A55}">
+					<Child Name="toolButtonUser" Owner="{6CFA2B8A-7A84-4CCD-8BBB-EBCEFD9D9672}" />
+				</Child>
+				<Child Name="centralwidget" Owner="{25BDA75C-FC7C-4E52-A459-4BBA2A143FAD}">
+					<Child Name="mdiArea" Owner="{B19C565D-D5FB-43E5-BD3F-92A1177000C2}">
+						<Child Name="Widget" Owner="{546AD9E3-A904-4233-8F1D-582DC67FD141}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="msgBoxDlg" Owner="{5EF05733-F3D3-4C0B-B30E-A51324E232A1}">
+				<Child Name="frame" Owner="{F699C12A-4DBD-4717-BA02-3775CFA7C34E}">
+					<Child Name="okButton" Owner="{11B6218F-7E19-4C89-8747-6094C4EE99B5}" />
+					<Child Name="labelMsg" Owner="{8D286655-7209-47BD-9A47-C76E97C7AC06}">
+						<Child Name="qt_scrollarea_viewport" Owner="{4B9D7944-A1CA-40DF-8232-FBBD496B1C76}" />
+					</Child>
+				</Child>
+				<Child Name="closeButton" Owner="{EA18DE9C-07D2-457B-BE67-3B734751482E}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+	<TypeInfo StoreCodeCompletion="1">
+		<Child Hash="-799264832" Key="{269DAEA5-0998-4ABE-92E4-26C136FED0FC}">
+			<Data Properties="D73DEEB35141E94F84420B2F73ED5B58UFFFFFFFFFFFFFFFFV4L7ZZY">
+				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+	</TypeInfo>
+</Root>
