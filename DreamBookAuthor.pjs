@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{BC2ABB62-55A6-44F5-921C-0E60112C846F}">
+	<children>
+		<child name="DB_Auto_Union" key="{E7365248-E0AE-4573-943F-198E5CBA78B1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="DB_Auto_Union\DB_Auto_Union.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{571EF505-A4BA-43FF-84A0-D2B149FD8536}">
+		<children>
+			<testItem key="{E7365248-E0AE-4573-943F-198E5CBA78B1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{665E6FA3-4369-4C4A-A15D-8A3161496663}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{66B2A4E6-9B8F-4602-9136-C3560BB00048}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
